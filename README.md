@@ -4,6 +4,7 @@
 Welcome to the **House Rent Price Predictor** for metropolitan Indian cities!  
 This project uses **machine learning** to estimate rental prices based on property details such as area, layout, city, and locality. A **Streamlit** app provides an intuitive user interface.
 
+🎥 [App Demonstration](https://drive.google.com/file/d/1EHQE7LMGCoKXLzYoo4Mhc7bcH583bPAF/view?usp=sharing)
 
 
 ## Objective
@@ -59,7 +60,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-![App Demonstration](app_demonstration.mp4)
 
 ## Project Walkthrough 
 
