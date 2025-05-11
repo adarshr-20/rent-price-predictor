@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 from custom import Numerical_Feature_Adder, AvgPriceByLocalityAdder # Custom transformer
 
-BEST_MODEL_URL = "https://github.com/adarshr-20/rent_price_prediction/releases/download/v1.0/best_model.gz"
+BEST_MODEL_URL = "https://github.com/adarshr-20/rent-price-predictor/releases/download/v1.0/best_model.gz"
 
 def download_file(url, filename):
     if not os.path.exists(filename):
